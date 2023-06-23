@@ -119,6 +119,6 @@ if __name__ == "__main__":
 
     current_datetime = datetime.now()
     yy = current_datetime.strftime("%Y%m%d_%H%M%S")
-    with open(f"output_correction_{yy}.json", "w") as f:
+    with open(f"output/output_correction_{yy}.json", "w") as f:
         json.dump(proofread, f)
 
