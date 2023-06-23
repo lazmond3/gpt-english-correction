@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "start_word_position": 20,
+      "end_word_position": 25,
+      "original_expression": "rebot a production instance",
+      "natural_expression": "rebooted a production instance",
+      "reason": "spelling error"
+    },
+    {
+      "start_word_position": 42,
+      "end_word_position": 45,
+      "original_expression": "which I work for",
+      "natural_expression": "where I currently work",
+      "reason": "clarity"
+    }
+  ]
+}
